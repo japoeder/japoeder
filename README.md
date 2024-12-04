@@ -4,4 +4,4 @@ I'm a data scientist with a deep passion for problem-solving and over 15 years o
 
 Check out my [Portfolio](https://japoeder.github.io/projects/) for select projects, micro-projects, skills, trainings, and achievements.
 
-![](https://hit.yhype.me/github/profile?user_id=8039100)
+![](https://hit.yhype.me/github/profile?account_id=8039100)
